@@ -1,0 +1,5 @@
+Le but de l'exercice est d'effectuer des tests basiques sur un composant (ici un compteur)
+
+-- il faut s'assurer que le composant se rende bien 
+-- que le composant ait bien deux boutons
+-- et qu'il retourne bien la valeur null quand on envoie la propriété disabled à true

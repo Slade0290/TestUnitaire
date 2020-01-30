@@ -1,0 +1,7 @@
+Le but de l'exercice est de completer les tests sur un composant (ici un compteur)
+
+le but est de verifier que la state et les props se mettent a jour quand on effectue des actions sur celui-ci
+
+-- on s'assure alors que la cle loading de notre state est a true lors du chargement.
+-- quand on click sur le bouton - la fonction decrement envoyer en props s'exécute bien
+-- quand on click sur le bouton + la fonction increment envoyer en props s'exécute bien 
